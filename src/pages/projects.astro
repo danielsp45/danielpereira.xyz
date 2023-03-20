@@ -1,0 +1,46 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HorizontalCard from "../components/HorizontalCard.astro";
+---
+
+<BaseLayout title = "Projects">
+  <div>
+    <div class="text-3xl w-full font-bold mb-5">Projects Header</div>
+  </div>
+
+    <HorizontalCard
+      title="Bokken"
+      img="/dojo.png"
+      desc="⚔️ Backend platform for managing session registrations and recording ninjas' progress "
+      url="https://github.com/coderdojobraga/bokken"
+    />
+    <div class="divider my-0"></div>
+    <HorizontalCard
+      title="Gongo"
+      img="/dojo.png"
+      desc="🎉 A bot for helping admins promote members in the CoderDojo Braga Discord server "
+      url="https://github.com/coderdojobraga/gongo"
+    />
+    <div class="divider my-0"></div>
+    <HorizontalCard
+      title="Uber.c"
+      img="/minho.png"
+      desc="This project was developed for the LI3 (Software Labs III) class in the 1st semester of the 2nd year of the Computer Science and Engineering course at University of Minho. "
+      url="https://github.com/danielsp45/uber.c"
+    />
+    <div class="divider my-0"></div>
+    <HorizontalCard
+      title="Stack Machine"
+      img="/minho.png"
+      desc="This project was developed for the LI2 (Software Labs II) class in the 2nd semester of the 1st year of the Computer Science and Engineering course at University of Minho. "
+      url="https://github.com/danielsp45/Stack-Machine"
+    />
+    <div class="divider my-0"></div>
+    <HorizontalCard
+      title="Spidey Block"
+      img="/minho.png"
+      desc="This project was developed for the LI1 (Software Labs I) class in the 1st semester of the 1st year of the Computer Science and Engineering course at University of Minho. "
+      url="https://github.com/danielsp45/SpideyBlock"
+    />
+    <div class="divider my-0"></div>
+</BaseLayout>

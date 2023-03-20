@@ -1,0 +1,66 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import TimeLineElement from "../components/cv/TimeLine.astro";
+import { mdx } from "astro/components";
+---
+
+<BaseLayout title = "Resume">
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Profile</div>
+  </div>
+
+  <div class="mb-10 text-justify">
+    As a second-year computer science and engineering student at Universidade do Minho, I am seeking a summer internship opportunity where I can utilize my skills, problem-solving abilities, and expand on my knowledge.
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Education</div>
+  </div>
+
+  <div class="time-line-container grid gap-4 mb-10">
+    <TimeLineElement
+      title="University of Minho"
+      subtitle="From Oct 2021 - Present"
+    />
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Experience</div>
+  </div>
+
+  <div class="time-line-container mb-10">
+    <TimeLineElement
+      title="Volunteer and mentor, CoderDojo Braga"
+      subtitle="April 2022 - Present"
+      desc="At CoderDojo, a free club led by volunteers for young people to learn coding, I have served as a mentor, teaching programming to children between 7 and 17 years old and assisting them in developing their critical thinking and problem-solving abilities. Additionally, I have developed a Discord bot for the CoderDojo Braga server, which was my initial interaction with an open-source project. I also contributed to the CoderDojo Braga website API, which was my first experience with web development using Phoenix."
+    />
+    <TimeLineElement
+      title="Co-Director of Pedagogical Department, CeSIUM"
+      subtitle="Oct 2021 - Present"
+      desc="CeSIUM is a student association exclusively for the Computer Science students at the University of Minho, with the primary objective of representing and promoting the course. During my time with CeSIUM, I had various responsibilities, such as acting as a mediator between students and professors, facilitating communication and collaboration between the two groups. I also organized workshops and events related to the Computer Science and Engineering course, with the aim of providing additional learning resources and opportunities to the student community. Furthermore, I led and managed a team of volunteers who were enthusiastic about helping with CeSIUM's Pedagogical activities. One of my notable achievements was successfully planning and implementing CodeWeek, a week-long event consisting of various workshops and activities aimed at welcoming and guiding new students in the course."
+    />
+  </div>
+
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold">Skills</div>
+  </div>
+
+  <ul class="list-disc md:columns-5 columns-2 mx-6">
+    <li>Portuguese</li>
+    <li>English</li>
+    <li>Algorithms and Data Structures</li>
+    <li>Functional Programming</li>
+    <li>Imperative Programming</li>
+    <li>Object Oriented Programming</li>
+    <li>Python</li>
+    <li>Haskell</li>
+    <li>C</li>
+    <li>Elixir</li>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+    <li>Phoenix</li>
+    <li>Astro</li>
+    <li>Next.js</li>
+  </ul>
+</BaseLayout>
