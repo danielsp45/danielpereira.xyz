@@ -7,7 +7,7 @@ During my academic course work I've been exposed to various fields of software e
 
 <br/>
 
-As I said before, I've also been active outside of my university course work.
+As said before, I've also been active outside of my university course work.
 
 During my time at CeSIUM, I began as a Co-Director of the Pedagogical Department, tasked with fostering seamless communication between students and professors, while also spearheading the organization of educational workshops.
 Transitioning into my second year at CeSIUM, I joined CAOS (Development Department), where I played role in the development and maintenance of CeSIUM's repositories, while collaborating closely with a dynamic team of five people.
