@@ -1,5 +1,5 @@
 Hey there, I'm Daniel Pereira and I'm a final year Software Engineering student at _University of Minho_.
-Throughout my academic journey, I've actively engaged in diverse forms of associativism, contributing my passion and skills to initiatives such as _CeSIUM_ and _CoderDojo Braga_.
+Throughout my academic journey, I've actively engaged in diverse forms of associativism, contributing my passion and skills to initiatives such as _CeSIUM_ (the Software Engineering Students Association of UMinho) and _CoderDojo Braga_ (a non profit organization aiming to teach kids from 7-17 how to program).
 
 <br/>
 
@@ -10,7 +10,7 @@ During my academic course work I've been exposed to various fields of software e
 As said before, I've also been active outside of my university course work.
 
 During my time at CeSIUM, I began as a Co-Director of the Pedagogical Department, tasked with fostering seamless communication between students and professors, while also spearheading the organization of educational workshops.
-Transitioning into my second year at CeSIUM, I joined CAOS (Development Department), where I played role in the development and maintenance of CeSIUM's repositories, while collaborating closely with a dynamic team of five people.
+Transitioning into my second year at CeSIUM, I joined CAOS (Development Department) as a Co-Director as well, where I played role in the development and maintenance of CeSIUM's repositories, while collaborating closely with a dynamic team of five people.
 
 <br/>
 
