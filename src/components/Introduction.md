@@ -1,17 +1,14 @@
-Hey there, I'm Daniel Pereira and I'm a final year Software Engineering student at _University of Minho_.
-Throughout my academic journey, I've actively engaged in diverse forms of associativism, contributing my passion and skills to initiatives such as _CeSIUM_ (the Software Engineering Students Association of UMinho) and _CoderDojo Braga_ (a non profit organization aiming to teach kids from 7-17 how to program).
+Hey there, I'm Daniel Pereira and I'm currently a final year Software Engineering student at [_University of Minho_](https://www.uminho.pt/EN/). 
+
+I'm a true technology enthusiast at heart. If you catch me, I'm probably elbow-deep in neovim, most likely breaking some stuff, and other than vim, I'm also a big fan of the Elixir programming language. 
 
 <br/>
 
-During my academic course work I've been exposed to various fields of software engineering such as **Algorithms and Data Structures**, **Computer Networking**, **Formal Methods**, **Distributed Systems**, **Cibersecurity** and much more.
+At Uni I've always tried to be active outside of my course work. I've been part of [_CeSIUM_](https://cesium.pt/) (Software Engineering Students Association of UMinho) where I've contributed to the development of open source projects and also helped organize events for the student community.
 
 <br/>
 
-As said before, I've also been active outside of my university course work.
-
-During my time at CeSIUM, I began as a Co-Director of the Pedagogical Department, tasked with fostering seamless communication between students and professors, while also spearheading the organization of educational workshops.
-Transitioning into my second year at CeSIUM, I joined CAOS (Development Department) as a Co-Director as well, where I played role in the development and maintenance of CeSIUM's repositories, while collaborating closely with a dynamic team of five people.
+When I'm out there in the real world, you can find me surfing, practicing Jiu-Jitsu, playing some games or just hanging out with friends.
 
 <br/>
 
-At CoderDojo, I started as a Mentor, teaching kids aged 7-17 programming. Later, I took on the role of Mentor and Tech Platform Responsible, where I developed, maintained, and deployed tech platforms for CoderDojo Braga.
